@@ -3,7 +3,7 @@
 [![](./header_.png)](#)
 <p align="center">
     <a href="https://github.com/putrinabella/putrinabella"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.10-FF1493.svg"></a>
+    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/PHP-8.0-red"></a>
     <a href="https://github.com/putrinabella/putrinabella/graphs/contributors"><img src="https://img.shields.io/github/contributors/putrinabella/putrinabella?color=blue"></a>
     <a href="https://github.com/putrinabella"><img src="https://img.shields.io/github/stars/putrinabella.svg?color=blue&logo=github"></a>
     <a href="https://github.com/putrinabella/putrinabella/network/members"><img src="https://img.shields.io/github/forks/putrinabella/putrinabella.svg?color=blue&logo=github"></a>
