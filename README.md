@@ -146,7 +146,7 @@ _These are some of my noteworthy contributions._
 <!-- <img width ='80px' height='25px' src='https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&amp;logo=figma&amp;logoColor=white' /> -->
 
 <!-- adobeillustrator -->
-<img width ='80px' height='25px' src='https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&amp;logo=adobe%20illustrator&amp;logoColor=white' />
+<!-- <img width ='80px' height='25px' src='https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&amp;logo=adobe%20illustrator&amp;logoColor=white' /> -->
 
 </p>
 
