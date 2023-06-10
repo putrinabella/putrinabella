@@ -241,8 +241,8 @@ _These are some of my noteworthy contributions._
   <table>
 <!-- Contribution graph -->
 
-![putrinabella github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=putrinabella&bg_color=ffffff&color=333333&line=333333&point=0dc200&area=true&hide_border=true)
-
+<!-- ![putrinabella github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=putrinabella&bg_color=ffffff&color=333333&line=333333&point=0dc200&area=true&hide_border=true)
+ -->
 <p align="center">
 <strong align="center">Work hard for what I want</strong>
 <br/>
