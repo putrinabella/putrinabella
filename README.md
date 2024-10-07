@@ -46,4 +46,5 @@
 <!-- Connect with me -->
 <h3 align="left">Connect with me</h3>
 
-<a href="https://linkedin.com/in/putrinabella" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin" /></a>
+<a href="https://linkedin.com/in/putrinabella" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin" /></a>
+
