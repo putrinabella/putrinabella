@@ -20,14 +20,14 @@
   <!-- - ✨ Find all my projects at [**putrinabella.com**](https://putrinabella.com/) -->
   <!-- About me end -->
 
-<!-- Languages and tools -->
+<!-- Languages and tools
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=anaconda,bash,bootstrap,css,debian,django,firebase,git,github,html,js,jquery,matlab,mysql,netlify,nodejs,notion,npm,php,postman,py,r,react,regex,sass,tailwind,vite,vscode,webpack" />
   </a>
 </p>
-<!-- Languange and tools end -->
+Languange and tools end -->
 
 <!-- Github activity -->
 <h3 align="left">GitHub Activity</h3>
